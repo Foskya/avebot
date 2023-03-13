@@ -1,5 +1,4 @@
 # avebot
-Discord bot
 
 le canzoni vengono salvate nella directory /home/ave/avebot/music.
 per evitare che il server si innondi, queste vengono cancellate ogni sera alle 4.
